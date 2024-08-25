@@ -16,7 +16,7 @@ Install nodejs-https://nodejs.org/en
 
 Install newman by using npm
 
-file:///C:/Users/Dhivya/Desktop/Newma%20Report%20for%20SOAP%20API%20Testing%20Project%231.pdf
+
 
 
 
