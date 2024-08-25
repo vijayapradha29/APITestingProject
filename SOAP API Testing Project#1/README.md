@@ -13,8 +13,8 @@ Here i have prepared a lists of test cases using Excel and executed it by using 
 ## Pre-Requisites:
 
 Install nodejs-https://nodejs.org/en
+
 Install newman by using npm
 
-<img src="C:\Users\Dhivya\Postman\APItesting\newman\API Testing-SOAP Project#1-2024-08-25-04-51-00-236-0.html"/>
 
 
